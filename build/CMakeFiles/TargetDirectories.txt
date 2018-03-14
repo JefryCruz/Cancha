@@ -1,0 +1,3 @@
+/home/jefry/Algoritmo/Ejercicio_Clase/build/CMakeFiles/rebuild_cache.dir
+/home/jefry/Algoritmo/Ejercicio_Clase/build/CMakeFiles/edit_cache.dir
+/home/jefry/Algoritmo/Ejercicio_Clase/build/CMakeFiles/hello.dir
